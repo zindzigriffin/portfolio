@@ -34,15 +34,15 @@
         <!-- Define the first row of the table -->
         <tr>
           <th>Core4 Concept</th>
-          <th> A variable is a storage location paired with an associated symbolic name which contains some known or unknown quantity of information referred to as a value.</th>
-          <th></th>
-          <th>Python Example</th>
+<th>A variable is a storage location paired with an associated symbolic name which contains some known or unknown quantity of information referred to as a value.</th>
+<th>A real life analogy is imagine variables as tenacles rather than boxes since they do not contain values.They grasp the values. Two variables can refer to the same value.</th>
+          <th An example in python is name=Zindzi</th>
           <th>Scratch Example</th>
         </tr>
 
         <!-- Fill in the row for Variables -->
         <tr>
-        <td><b>Variables</b></td>
+<td>A variable is a storage location paired with an associated symbolic name which contains some known or unknown quantity of   information referred to as a value.</td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
@@ -51,8 +51,8 @@
 
         <!-- Fill in the row for Loops -->
         <tr>
-          <td><b>Loops</b></td>
-          <td>  </td>
+          <td> A loop is a sequence of instructions that is continually repeated until a certain condition is reached.></td>
+          <td> A real life analogy of a loop is  </td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
